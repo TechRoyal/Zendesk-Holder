@@ -25,6 +25,15 @@
     background-color: #3dae5f;
     color: white;
   }
+
+.submitButton{
+    background-color: #3dae5f;
+    color: white;
+  }
+  .submitButton:hover{
+    background-color: #3dae5f;
+    color: white;
+  }
   
   a{
     color: #3dae5f;
