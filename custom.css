@@ -2,7 +2,7 @@
  
   html{
     height: 100vh;
-    background: url(https://theme.zdassets.com/theme_assets/592752/7ab716c90870b08397d7ec99a4065f3868210d3d.jpg) no-repeat center center fixed; 
+    background-color: #000;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
